@@ -28,7 +28,7 @@ $age2 = 40;              // Âge de la personne 2
 // -Définition d'une fonction pour afficher une présentation (approche procédurale)
 function presentation2($nom, $prenom, $age)
 {
-  // Affichage formaté des informations
+  // -Affichage formaté des informations
   echo "<pre>";
   print_r("Bonjour! je suis <b>$nom $prenom</b> et j'ai <b>$age</b> ans");
   echo "</pre>";
