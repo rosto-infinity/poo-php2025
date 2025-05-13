@@ -1,5 +1,5 @@
 <?php
-// Déclaration de la classe Employer
+// -Déclaration de la classe Employer
 class Employer
 {
   // Déclaration des propriétés publiques de la classe
