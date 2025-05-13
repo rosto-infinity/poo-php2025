@@ -34,7 +34,7 @@ function presentation2($nom, $prenom, $age)
   echo "</pre>";
 }
 
-// Appel de la fonction presentation2 (commenté dans le code original)
+// -Appel de la fonction presentation2 (commenté dans le code original)
 // presentation2($nom1, $prenom1, $age1);
 ?>
 
