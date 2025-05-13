@@ -16,7 +16,7 @@ $employer3->presentation(); // -Affiche les informations de l'employé 3
 
 
 
-// Déclaration de variables pour un autre exemple de présentation
+// -Déclaration de variables pour un autre exemple de présentation
 $nom1 = 'Owen';          // Nom de la personne 1
 $prenom1 = "waffo";      // Prénom de la personne 1
 $age1 = 10;              // Âge de la personne 1
