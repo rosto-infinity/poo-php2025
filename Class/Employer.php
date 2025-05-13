@@ -10,7 +10,7 @@ class Employer
   // -Constructeur de la classe, appelé lors de l'instanciation d'un objet Employer
   public function __construct(string $nom, string $prenom, int $age)
   {
-    // Initialisation des propriétés avec les valeurs passées en paramètres
+    // -Initialisation des propriétés avec les valeurs passées en paramètres
     $this->nom = $nom;
     $this->prenom = $prenom;
     $this->age = $age;
