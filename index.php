@@ -1,5 +1,5 @@
 <?php
-// Inclusion du fichier contenant la classe Employer
+// -Inclusion du fichier contenant la classe Employer
 require_once "./Class/Employer.php";
 
 // Création de trois objets de la classe Employer avec des valeurs spécifiques
