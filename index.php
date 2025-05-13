@@ -10,7 +10,7 @@ $employer3 = new Employer("Myra", "Eva", 15);   // Employé 3
 // -Appel de la méthode presentation() pour chaque employé
 $employer1->presentation(); // -Affiche les informations de l'employé 1
 $employer2->presentation(); // -Affiche les informations de l'employé 2
-$employer3->presentation(); // Affiche les informations de l'employé 3
+$employer3->presentation(); // -Affiche les informations de l'employé 3
 
 
 
