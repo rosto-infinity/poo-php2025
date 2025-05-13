@@ -16,7 +16,7 @@ class Employer
     $this->age = $age;
   }
 
-  // Méthode pour afficher une présentation de l'employé
+  // -Méthode pour afficher une présentation de l'employé
   public function presentation()
   {
     // Affichage formaté des informations de l'employé
