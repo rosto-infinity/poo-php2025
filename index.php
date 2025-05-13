@@ -2,7 +2,7 @@
 // -Inclusion du fichier contenant la classe Employer
 require_once "./Class/Employer.php";
 
-// Création de trois objets de la classe Employer avec des valeurs spécifiques
+// -Création de trois objets de la classe Employer avec des valeurs spécifiques
 $employer1 = new Employer("lele", "Wabo", 12);  // Employé 1
 $employer2 = new Employer("Tagne", "Boris", 20); // Employé 2
 $employer3 = new Employer("Myra", "Eva", 15);   // Employé 3
