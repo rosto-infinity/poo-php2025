@@ -19,7 +19,7 @@ class Employer
   // -Méthode pour afficher une présentation de l'employé
   public function presentation()
   {
-    // Affichage formaté des informations de l'employé
+    // -Affichage formaté des informations de l'employé
     echo '<pre>'; 
     print_r(" Bonjour ! je suis <b> {$this->nom}</b> <b> {$this->prenom}  </b> et j'ai <b> {$this->age}</b> ans");
     echo '</pre>'; 
