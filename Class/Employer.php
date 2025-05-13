@@ -7,7 +7,7 @@ class Employer
   public string $prenom; // Prénom de l'employé
   public int $age;       // Âge de l'employé
 
-  // Constructeur de la classe, appelé lors de l'instanciation d'un objet Employer
+  // -Constructeur de la classe, appelé lors de l'instanciation d'un objet Employer
   public function __construct(string $nom, string $prenom, int $age)
   {
     // Initialisation des propriétés avec les valeurs passées en paramètres
